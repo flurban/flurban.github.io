@@ -23,7 +23,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 a.proto-link {
@@ -35,7 +35,7 @@ a.proto-link {
 }
 a.proto-link:hover {
 	    background-color: #424242 !important;
-	    
+
 }
 
 .navbar-default {
@@ -68,7 +68,7 @@ img.logo {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
     font-size: 3.5em;
     font-weight: normal;
 }
@@ -79,9 +79,7 @@ img.logo {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-.intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-}
+
 
 @media(min-width:767px) {
 	.intro-social-buttons {
